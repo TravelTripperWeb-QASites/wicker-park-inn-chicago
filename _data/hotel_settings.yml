@@ -1,17 +1,17 @@
-latitude: 40.7507385
-longitude: -73.97681210000002
+---
+latitude: 41.90655
+longitude: -87.67285
 map_zoom: 12
-name: "Paradise Hotel"
-email: "info@traveltripper.com"
-phone_number: "1-212-683-6161"
-  
+name: Wicker Park Inn
+email: sgontu@traveltripper.com
+phone_number: 001-111-1111
 address:
-  city: "New York"
-  country: "United States"
-  state: "NY"
-  street1: "370 Lexington Ave"
-  street2: "Suite 1601"
-  zip_code: "10017"
-  
-_hotel_id: KEY24N #KEY24N, TTDEMO, HODE
-_portal_id: required-but-empty #24northhotel, demo, demohotel
+  street1: 1329 N Wicker Park Ave
+  street2: ''
+  state: Illinois
+  city: Chicago
+  country: United States
+  zip_code: '60622'
+_hotel_id: WIC622
+_portal_id: required-but-empty
+_root_path: https://rt3api-prd.ttaws.com
